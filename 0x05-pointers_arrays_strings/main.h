@@ -1,4 +1,4 @@
-#ifdnef MAIN_H
+#ifndef MAIN_H
 #define MAIN_H
 
 int _putchar(char c);
@@ -15,4 +15,4 @@ void print_array(int *a, int n);
 char *strcpy(char *dest, char *src);
 int _atoi(char *s);
 
-#endif
+#endif /* MAIN_H */
