@@ -2,9 +2,7 @@
 
 /**
  * _puts - prints a spring
- *
- *
- * @str:pointer char 
+ * @str:pointer char
  * Return:void which means our answer is correct
  */
 
