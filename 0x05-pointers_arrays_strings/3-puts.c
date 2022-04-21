@@ -1,8 +1,7 @@
 #include "main.h"
 /**
  * _puts - prints a spring
- * @str:A pointer to an int that will be changed
- * 
+ * @str:A pointer to an int that will be change 
  * Return: void which means our answer is correct
  */
 void _puts(char *str)
