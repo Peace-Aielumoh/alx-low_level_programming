@@ -5,6 +5,7 @@
  * @str:pointer char 
  * Return:void which means our answer is correct
  */
+
 void _puts(char *str)
 {
 	int i;
