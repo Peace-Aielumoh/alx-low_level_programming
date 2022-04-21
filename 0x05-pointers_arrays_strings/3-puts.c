@@ -2,7 +2,7 @@
 
 /**
  * _puts - prints a spring
- * @str:A pointer to an int that will be change 
+ * @str:pointer char 
  * Return:void which means our answer is correct
  */
 void _puts(char *str)
