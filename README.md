@@ -1,1 +1,1 @@
-This repository introduces the c programming language
+This Directory contains all tasks for C-Recursion
