@@ -1,1 +1,1 @@
-This Directory contains all tasks for C-Recursion
+This Directory contains all tasks for the ALX C-programmming language course
