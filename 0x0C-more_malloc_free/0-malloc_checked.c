@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  *malloc_checked - array for prints a string
- *@b: number of memory
+ *@b: number of memories
  *Return: void
  */
 
