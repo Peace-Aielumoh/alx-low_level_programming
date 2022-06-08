@@ -1,4 +1,4 @@
 #ifndef add
-#define add
+#deine add
 #define SUM(x, y) ((x) + (y))
 #endif
